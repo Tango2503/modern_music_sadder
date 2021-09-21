@@ -1,0 +1,23 @@
+log transformation
+- acousticness
+- liveness
+- valence
+- duration_ms
+
+normalisation:
+- tempo
+- danceability
+- energy
+- loudness
+- speechiness
+- lyrics_sentiment
+
+category
+- key
+- mode
+- time_signature (removed)
+
+Outlier Treatment
+- instrumentalness (removed)
+- speechiness
+- duration_ms
