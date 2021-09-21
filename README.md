@@ -1,6 +1,4 @@
-# Is Modern Music Getting Sadder? 
-
-## All the kids are Depressed – An Analytical View on Modern Music
+# All the kids are Depressed – An Analytical View on Modern Music
 
 Is it just me or is it that with every new song that drops these days makes you wanna break down in the middle of the day because of some unresolved trauma five years ago? It can’t only be me, right? 
 Cue *Coffee Bed*, *Heather* and *Driver’s License* begging me to ask the question:
